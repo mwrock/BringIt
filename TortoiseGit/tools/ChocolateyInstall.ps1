@@ -1,0 +1,1 @@
+Install-ChocolateyPackage 'TortoiseGit (Latest)' 'MSI' '/QN /norestart REBOOT=ReallySuppress' 'http://tortoisegit.googlecode.com/files/TortoiseGit-1.7.12.0-32bit.msi' 'http://tortoisegit.googlecode.com/files/TortoiseGit-1.7.12.0-64bit.msi'

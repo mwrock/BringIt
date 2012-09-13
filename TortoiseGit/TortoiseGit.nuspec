@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>TortoiseGit.latest</id>
+        <title>TortoiseGit (Latest)</title>
+        <version>1.7.12</version>
+        <authors>Sven Strickroth and Frank Li</authors>
+        <owners>Pure Krome</owners>
+        <summary>The coolest Interface to Git Version Control</summary>
+        <description>Git Version of TortoiseSVN. It is a port of TortoiseSVN for Git. TortoiseGit supports you by regular tasks, such as committing, showing logs, diffing two versions, creating branches and tags, creating patches and so on. | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+        <projectUrl>http://code.google.com/p/tortoisegit/</projectUrl>
+        <tags>tortoisegit git tortoise</tags>
+        <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <iconUrl>http://code.google.com/p/tortoisegit/logo?cct=1344494854</iconUrl>
+        <dependencies>
+          <dependency id="git"/>
+        </dependencies>
+  </metadata>
+</package>

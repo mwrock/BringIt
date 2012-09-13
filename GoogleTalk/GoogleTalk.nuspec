@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>GoogleTalk</id>
+        <title>GoogleTalk</title>
+        <version>1.0.0.104</version>
+        <authors>Google.com</authors>
+        <owners>Pure Krome</owners>
+        <summary>A free Chat and Voip application</summary>
+        <description>Welcome to Google Talk, a downloadable chat application by Google. Check out what Google Talk can do: Instant messages: share quick thoughts in real time; Status updates: see if friends are around and what they are up to; File transfer: instantly send and receive files, pictures, and more; Free long distance: make PC-to-PC calls to people anywhere in the world; Audio conferencing: talk to multiple people at once; Gmail integration: chat with your friends on Gmail | Please install with chocolatey (http://nuget.org/List/Packages/chocolatey).</description>
+        <projectUrl>http://www.google.com/talk/</projectUrl>
+        <tags>google chat talk googletalk googlechat gtalk gchat</tags>
+        <licenseUrl>http://www.google.com/intl/en/policies/terms/</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <iconUrl>http://www.google.com/images/logos/logo.gif</iconUrl>
+  </metadata>
+</package>
