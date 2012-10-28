@@ -14,7 +14,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <iconUrl>http://code.google.com/p/tortoisegit/logo?cct=1344494854</iconUrl>
         <dependencies>
-          <dependency id="git"/>
+          <dependency id="TortoiseGit"/>
         </dependencies>
   </metadata>
 </package>
